@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 
 [![Chiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiaraferrara&show_icons=true&theme=transparent)](https://github.com/chiaraferrara/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraferrara&layout=compact&langs_count=6)
